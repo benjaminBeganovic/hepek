@@ -71,6 +71,6 @@
       </dataSources>
     </version>
   </oracle.manageddataaccess.client>
-</configurations>
+</configurations zanzibar>
 
 Line added, It's not exist in your repo.
