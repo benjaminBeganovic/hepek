@@ -71,6 +71,6 @@
       </dataSources>
     </version>
   </oracle.manageddataaccess.client>
-</configurations najeboga>
+</configurations najeboga22222 i nasa i njihova>
 
 Line added, It's not exist in your repo.
