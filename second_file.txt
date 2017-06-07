@@ -72,3 +72,5 @@
     </version>
   </oracle.manageddataaccess.client>
 </configuration>
+
+one more changes line
